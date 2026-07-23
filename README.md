@@ -1,4 +1,6 @@
+
 # Adjustable Light Bracket — 5-DOF Positioning Mechanism
+<img width="547" height="314" alt="Screenshot 2026-07-16 203824" src="https://github.com/user-attachments/assets/11a90f12-e401-442d-a311-4e4753560e7e" />
 
 
 ---
@@ -93,6 +95,8 @@ Enables tool-free rotation of the light about its own axis (>300°).
   spring force, arresting the new position
 - No tools required for adjustment
 
+<img width="113" height="113" alt="Screenshot 2026-07-16 " src="https://github.com/user-attachments/assets/515294fa-4490-422c-aa78-e460f5f70dda" />
+
 ### 3. Fastening Revolute Joints (Y, Z, Yaw axes)
 Three joints use M5 bolt + nut fastening for rigid obstructive arrest.
 
@@ -101,6 +105,9 @@ Three joints use M5 bolt + nut fastening for rigid obstructive arrest.
 - Tightening the M5 Nut clamps the links together rigidly
 - Loosening allows free rotation to new position
 - Allen key (4mm) required for adjustment
+
+<img width="217" height="196" alt="Screenshot 2026-07-15 01292" src="https://github.com/user-attachments/assets/bcdb957c-519d-4c34-80e0-9982f0372b05" />
+
 
 ---
 
