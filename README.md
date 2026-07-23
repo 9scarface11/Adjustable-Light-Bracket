@@ -78,6 +78,8 @@ Enables tool-free sliding along the X-axis (200mm travel).
   contact, arresting position instantly
 - No tools required for adjustment
 
+<img width="455" height="227" alt="Screenshot 2026-07-15 011922" src="https://github.com/user-attachments/assets/52d1c083-5e98-44cf-9aed-004cc3c3e679" />
+
 ### 2. Friction Revolute Joint (Roll axis)
 Enables tool-free rotation of the light about its own axis (>300°).
 
@@ -179,6 +181,7 @@ adjustable-light-bracket-5DOF/
 ├── CAD/
 │ ├── assembly.SLDASM
 │ ├── parts/
+
 │ └── STEP/
 │ └── bracket_assembly.stp ← AP214
 ├── docs/
